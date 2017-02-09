@@ -11,7 +11,7 @@ A user fills out a series of preferences. For example:
 - Friendliness of staff
 - Promixity to building x
 
-They then get back back a ranked list of coffee shops that match their preferences.
+They then get back a ranked list of coffee shops that match their preferences.
 
 ## Project tasks
 
