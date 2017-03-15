@@ -48,10 +48,9 @@ app.use(function(err, req, res, next) {
 // console.log(data.toString());
 
 var pm = new ParseModule();
-pm.parseCSV().then(function(dataaa) {
-  console.log('data :', dataaa)
+
+pm.parseCSV().then(function (data) {
+  console.log('data :', data)
 });
 
 module.exports = app;
-
-

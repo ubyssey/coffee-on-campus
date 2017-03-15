@@ -6,6 +6,7 @@ var cache = [];
 var csvFilePath = './public/coffee-on-campus.csv';
 
 var ParsingCSV = function (){
+
 };
 
 ParsingCSV.prototype.parseCSV = function(){
