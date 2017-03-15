@@ -4,6 +4,7 @@
 
 var cache = [];
 var csvFilePath = './public/coffee-on-campus.csv';
+const csv=require('csvtojson');
 
 var ParsingCSV = function (){
 
@@ -11,7 +12,6 @@ var ParsingCSV = function (){
 
 ParsingCSV.prototype.parseCSV = function(){
     return new Promise(function(fulfill,reject){
-        const csv=require('csvtojson');
         csv().fromFile(csvFilePath)
             .on('json',function (jsonObj) {
                 cache.push(jsonObj);
