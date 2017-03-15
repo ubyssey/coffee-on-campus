@@ -5,7 +5,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var csvParser = require('./public/parseCSV');
+var ParseModule = require('./public/parseCSV');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
@@ -45,10 +45,12 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-//var cp = new csvParser();
-var cp = new csvParser();
-var cache = cp.parseCSV();
-console.log(cache);
+// console.log(data.toString());
+
+var pm = new ParseModule();
+pm.parseCSV().then(function(dataaa) {
+  console.log('data :', dataaa)
+});
 
 module.exports = app;
 
