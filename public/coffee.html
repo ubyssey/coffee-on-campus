@@ -2,19 +2,31 @@
 <html lang="en">
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <head>
-        <meta charset="UTF-8">
-            <title>Document</title>
-            </head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
 
-    <script>
-        $.getJSON("data.json",function(data){
-            for(var key in data){
-                console.log(data[key]);
-            }
-        })
-    </script>
+<body>
 
+<style>
+    table {
+        border-collapse: separate;
+        border-spacing: 50px 0;
+    }
 
+    td {
+        padding: 3px 20px;
+    }
+</style>
+
+<table>
+    <div id="output">
+    </div>
+    <button id="cal"> Click </button>
+    <script src="./coffee.js"></script>
+
+</table>
+
+</body>
 </head>
 </html>
