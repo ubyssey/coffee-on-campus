@@ -8,11 +8,13 @@
             </head>
 
     <script>
-        $.ajax.get(./public/data.json){
-
-        }
-
-
+        $.getJSON("data.json",function(data){
+            for(var key in data){
+                console.log(data[key]);
+            }
+        })
     </script>
+
+
 </head>
 </html>
