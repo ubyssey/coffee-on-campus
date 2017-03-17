@@ -53,4 +53,5 @@ pm.parseCSV().then(function (data) {
   console.log('data :', data)
 });
 
+pm.writeOutData();
 module.exports = app;

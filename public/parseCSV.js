@@ -6,6 +6,10 @@ var cache = [];
 var csvFilePath = './public/coffee-on-campus.csv';
 const csv=require('csvtojson');
 
+var jsonfile = require('jsonfile');
+var jsonFilePath = './public/data.json';
+
+
 var ParsingCSV = function (){
 
 };
@@ -24,6 +28,15 @@ ParsingCSV.prototype.parseCSV = function(){
                 fulfill(cache);
             }
         });
+    })
+};
+
+// delete data.json if data changes
+ParsingCSV.prototype.writeOutData = function () {
+    this.parseCSV().then(function(data){
+        jsonfile.writeFile(jsonFilePath,data,function(err){
+            console.log(err);
+        })
     })
 };
 
