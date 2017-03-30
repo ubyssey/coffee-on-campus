@@ -20,6 +20,8 @@ They then get back a ranked list of coffee shops that match their preferences.
 4. [Build a query engine that compares user preferences against the dataset and returns a sorted list of coffee shops](https://github.com/ubyssey/coffee-on-campus/issues/4)
 5. [Build a view that displays the top 10 results from step 4](https://github.com/ubyssey/coffee-on-campus/issues/5)
 
+## Deadline: April 21st, 2017
+
 ## Running Server
 
 1. [npm start] on console 
