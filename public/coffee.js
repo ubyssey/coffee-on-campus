@@ -2,6 +2,7 @@
  * Created by yecalvin on 2017-03-17.
  */
 var ga;
+
 $.getJSON("data.json", function (data) {
     $("#output").append("<tr><th>Name</th>" +
         "<th>Location</th>" +
