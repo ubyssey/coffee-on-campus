@@ -1,54 +1,54 @@
-storeName,location,price (medium coffee),yelpRating,avgWaitTime,location,payment options,
-Great Dane Coffee,"Behind Walter Gage Residences, near IONA and the School of Theology",<10,3.5,,,"credit,debit,cash",https://www.yelp.ca/biz/great-dane-coffee-vancouver
-The Boulevard Coffee Roasting Company,"Near the trolley bus loop, Shoppers, or Mahoney's",11-30,3.5,,"5970 University Boulevard
-Vancouver, BC V6T 1Z3","credit,debit,cash",https://www.yelp.ca/biz/the-boulevard-coffee-roasting-vancouver
-Starbucks (UBC Bookstore),UBC Bookstore,,,,,"credit,debit,cash",
-Starbucks (TEF Building),Agronomy Road {TEF Building},moderate,3.4,,"6190 Agronomy Rd
-Vancouver, BC V6T 1L9","credit,debit,cash",https://www.yelp.ca/biz/starbucks-vancouver-133
-Starbucks (UBC Village),UBC Village,moderate,3.6 (7),,"5763 Dalhousie Road
-Vancouver, BC V6T 2H9","credit,debit,cash",https://www.yelp.ca/biz/starbucks-vancouver-86
-Starbucks (Fred Kaiser Building),Fred Kaiser Building,moderate,3.7 (3),,"2332 Main Mall
+Name,Location,Price (medium coffee),Yelp Rating,Location,payment options,,quality,service,waitTime
+Great Dane Coffee,"Behind Walter Gage Residences, near IONA and the School of Theology",<10,3.5,,"credit,debit,cash",https://www.yelp.ca/biz/great-dane-coffee-vancouver,4.21,4.64,2.71
+The Boulevard Coffee Roasting Company,"Near the trolley bus loop, Shoppers, or Mahoney's",11-30,3.5,"5970 University Boulevard
+Vancouver, BC V6T 1Z3","credit,debit,cash",https://www.yelp.ca/biz/the-boulevard-coffee-roasting-vancouver,4.21,3.79,3.79
+Starbucks (UBC Bookstore),UBC Bookstore,,,,"credit,debit,cash",,3.07,3.08,1.85
+Starbucks (TEF Building),Agronomy Road {TEF Building},moderate,3.4,"6190 Agronomy Rd
+Vancouver, BC V6T 1L9","credit,debit,cash",https://www.yelp.ca/biz/starbucks-vancouver-133,2.83,3.17,2.17
+Starbucks (UBC Village),UBC Village,moderate,3.6,"5763 Dalhousie Road
+Vancouver, BC V6T 2H9","credit,debit,cash",https://www.yelp.ca/biz/starbucks-vancouver-86,3.1,3.3,3.1
+Starbucks (Fred Kaiser Building),Fred Kaiser Building,moderate,3.7,"2332 Main Mall
 UBC Fred Kaiser Building
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/starbucks-vancouver-99
-Tim Hortons (UBC Forestry Building),UBC Forestry Building,inexpensive,2.6 (9),,"2033 Main Mall
-Vancouver, BC V6T 1Z2","credit,debit,cash",https://www.yelp.ca/biz/tim-hortons-vancouver-14
-Tim Hortons (Henry Angus),Henry Angus,inexpensive,2 (3),,"2424 Main Mall
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/starbucks-vancouver-99,3,3.375,2.375
+Tim Hortons (UBC Forestry Building),UBC Forestry Building,inexpensive,2.6,"2033 Main Mall
+Vancouver, BC V6T 1Z2","credit,debit,cash",https://www.yelp.ca/biz/tim-hortons-vancouver-14,2.25,2.82,1.55
+Tim Hortons (Henry Angus),Henry Angus,inexpensive,2,"2424 Main Mall
 Forest Sciences Centre
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/tim-hortons-vancouver-40
-Blenz Coffee,University Village,inexpensive,3.6 (23),,"3381 Wesbrook Mall
-Vancouver, BC V6S 0A5","credit,debit,cash",https://www.yelp.ca/biz/blenz-coffee-vancouver-32
-Loafe Cafe,Robert H. Lee Alumni Centre,<10,4.1 (16),,"6163 University Boulevard
-Vancouver, BC V6T 1Z1","credit,debit,cash",https://www.yelp.ca/biz/loafe-cafe-vancouver
-Bean Around the World,Thunderbird Residences,moderate,3.9 (14),,"6308 Thunderbird Blvd
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/bean-around-the-world-ubc-vancouver
-Uppercase,AMS Student Nest,<10,3.6 (8),,"6133 University Boulevard
-Vancouver, BC V6T 1Z1","credit,debit,cash",https://www.yelp.ca/biz/uppercase-vancouver
-Corner Store,Next to UBC Bookstore,*,4 (1),,"6200 University Boulevard
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/corner-store-vancouver
-Ike's Cafe,Irving K. Barber Learning Centre,< 0,2.5 (4),,"1961 East Mall
-Vancouver, BC V6T 1Y3","credit,debit,cash",https://www.yelp.ca/biz/ikes-caf%C3%A9-vancouver
-Cafe MOA,Museum of Anthropology,10,5 (1),,"6393 N.W. Marine Drive, Vancouver, BC V6T 1Z2","credit,debit,cash",https://www.zomato.com/vancouver/cafe-moa-1-ubc-vancouver/info
-Agora Eats Cafe,H.R. Macmillan Building,<10,4.2 (4),,"MacMillan Building
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/tim-hortons-vancouver-40,2.27,2.6,1.53
+Blenz Coffee,University Village,inexpensive,3.6,"3381 Wesbrook Mall
+Vancouver, BC V6S 0A5","credit,debit,cash",https://www.yelp.ca/biz/blenz-coffee-vancouver-32,3.6,3.2,3.9
+Loafe Cafe,Robert H. Lee Alumni Centre,<10,4.1,"6163 University Boulevard
+Vancouver, BC V6T 1Z1","credit,debit,cash",https://www.yelp.ca/biz/loafe-cafe-vancouver,4.42,4.08,3.17
+Bean Around the World,Thunderbird Residences,moderate,3.9,"6308 Thunderbird Blvd
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/bean-around-the-world-ubc-vancouver,4.11,3.89,4.22
+Uppercase,AMS Student Nest,<10,3.6,"6133 University Boulevard
+Vancouver, BC V6T 1Z1","credit,debit,cash",https://www.yelp.ca/biz/uppercase-vancouver,3.4,3.27,2.4
+Corner Store,Next to UBC Bookstore,*,4,"6200 University Boulevard
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/corner-store-vancouver,2.5,3.5,4
+Ike's Cafe,Irving K. Barber Learning Centre,< 0,2.5,"1961 East Mall
+Vancouver, BC V6T 1Y3","credit,debit,cash",https://www.yelp.ca/biz/ikes-caf%C3%A9-vancouver,2.71,2.86,2.57
+Cafe MOA,Museum of Anthropology,10,5,"6393 N.W. Marine Drive, Vancouver, BC V6T 1Z2","credit,debit,cash",https://www.zomato.com/vancouver/cafe-moa-1-ubc-vancouver/info,3.25,3.25,3.5
+Agora Eats Cafe,H.R. Macmillan Building,<10,4.2,"MacMillan Building
 2357 Main Mall
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/agora-cafe-vancouver
-Magma Cafe,Earth and Ocean Sciences Building,10,2.5 (4),,"6339 Stores Road, Vancouver","credit,debit,cash",https://www.zomato.com/vancouver/magma-cafe-ubc-vancouver
-Niche Cafe,The Beaty Biodiversity Museum,12.5,3 (17),,"2212 Main Mall, Vancouver, BC 6T1Z4","credit,debit,cash",https://www.zomato.com/vancouver/the-niche-cafe-ubc-vancouver
-Cafe Perugia,Life Sciences Centre,11-30,3.3 (9),,"2350 Health Sciences Mall
-Greater Vancouver A, BC V6T 1Z3","credit,debit,cash",https://www.yelp.ca/biz/cafe-perugia-greater-vancouver-a
-Reboot Cafe,ICICS,10,2.7 (8),,"2366 Main Mall, Vancouver, BC 6T1Z4","credit,debit,cash",https://www.zomato.com/vancouver/reboot-cafe-ubc-vancouver
-Sauder Exchange Cafe,Henry Angus,<10,2.8(4),,"2053 Main Mall
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/sauder-exchange-caf%C3%A9-vancouver
-Mercante,Ponderosa Commons - Maple House,<10,3.3 (41),,"6488 University Boulevard
-Vancouver, BC V6T","credit,debit,cash",https://www.yelp.ca/biz/mercante-vancouver-2
-Stir It Up Cafe,Buchanan A,10,2.7 (15),,"1866 Main Mall, Vancouver, BC 6T1Z1","credit,debit,cash",https://www.zomato.com/vancouver/stir-it-up-cafe-ubc-vancouver
-Loop Cafe,CIRS,11-30,3.4 (7),,"CIRS - Centre for Interactive Research on Sustainability
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/agora-cafe-vancouver,3.33,3.33,3.67
+Magma Cafe,Earth and Ocean Sciences Building,10,2.5,"6339 Stores Road, Vancouver","credit,debit,cash",https://www.zomato.com/vancouver/magma-cafe-ubc-vancouver,2.33,2.67,3.67
+Niche Cafe,The Beaty Biodiversity Museum,12.5,3,"2212 Main Mall, Vancouver, BC 6T1Z4","credit,debit,cash",https://www.zomato.com/vancouver/the-niche-cafe-ubc-vancouver,2.5,3,3
+Cafe Perugia,Life Sciences Centre,11-30,3.3,"2350 Health Sciences Mall
+Greater Vancouver A, BC V6T 1Z3","credit,debit,cash",https://www.yelp.ca/biz/cafe-perugia-greater-vancouver-a,2.33,3,3
+Reboot Cafe,ICICS,10,2.7,"2366 Main Mall, Vancouver, BC 6T1Z4","credit,debit,cash",https://www.zomato.com/vancouver/reboot-cafe-ubc-vancouver,2.5,3,3
+Sauder Exchange Cafe,Henry Angus,<10,2.8,"2053 Main Mall
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/sauder-exchange-caf%C3%A9-vancouver,2.57,2.57,2.14
+Mercante,Ponderosa Commons - Maple House,<10,3.3,"6488 University Boulevard
+Vancouver, BC V6T","credit,debit,cash",https://www.yelp.ca/biz/mercante-vancouver-2,3.3,3.4,3
+Stir It Up Cafe,Buchanan A,10,2.7,"1866 Main Mall, Vancouver, BC 6T1Z1","credit,debit,cash",https://www.zomato.com/vancouver/stir-it-up-cafe-ubc-vancouver,2.8,3.6,3.2
+Loop Cafe,CIRS,11-30,3.4,"CIRS - Centre for Interactive Research on Sustainability
 2260 W Mall
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/the-loop-cafe-vancouver
-Neville's Cafe,Neville Scarfe,<10,3 (1),,"Neville Scarfe Bldg - UBC
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/the-loop-cafe-vancouver,3.5,3.5,3
+Neville's Cafe,Neville Scarfe,<10,3,"Neville Scarfe Bldg - UBC
 2125 Main Mall
-Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/nevilles-vancouver
-The Beanery,Fairview Crescent,inexpensive,3.9 (14),,"2706 Fairview Crescent
-Vancouver, BC V6T 2B9","credit,debit,cash",https://www.yelp.ca/biz/the-original-beanery-vancouver
-IRC Snack Bar,Woodward Library,*,5 (1),,"2194 Health Sciences Mall
+Vancouver, BC V6T 1Z4","credit,debit,cash",https://www.yelp.ca/biz/nevilles-vancouver,3.5,3,3
+The Beanery,Fairview Crescent,inexpensive,3.9,"2706 Fairview Crescent
+Vancouver, BC V6T 2B9","credit,debit,cash",https://www.yelp.ca/biz/the-original-beanery-vancouver,4.2,3.8,3.8
+IRC Snack Bar,Woodward Library,*,5,"2194 Health Sciences Mall
 UBC
-Vancouver, BC V6T","credit,debit,cash",https://www.yelp.ca/biz/irc-snack-bar-vancouver
+Vancouver, BC V6T","credit,debit,cash",https://www.yelp.ca/biz/irc-snack-bar-vancouver,3,3,3

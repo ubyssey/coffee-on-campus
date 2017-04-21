@@ -18,6 +18,7 @@ ParsingCSV.prototype.parseCSV = function(){
     return new Promise(function(fulfill,reject){
         csv().fromFile(csvFilePath)
             .on('json',function (jsonObj) {
+                console.log(jsonObj);
                 cache.push(jsonObj);
             }).on('done',function(error){
             if(cache.length == 0){

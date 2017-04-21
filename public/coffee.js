@@ -8,16 +8,22 @@ $.getJSON("data.json", function (data) {
         "<th>Location</th>" +
         "<th>Payment Options</th>" +
         "<th>Price (medium sized coffee)</th>" +
+        "<th>Quality</th>" +
+        "<th>Service</th>" +
         "<th>Average Wait Time</th>" +
         "</tr>");
 
     for (var index in data) {
-        var name = "<tr><td>" + data[index].storeName + "</td>";
-        var loc = "<td>" + data[index].location + "</td>";
+        console.log(data);
+        console.log(data[index].quality);
+        var name = "<tr><td>" + data[index].Name + "</td>";
+        var loc = "<td>" + data[index].Location + "</td>";
         var po = "<td>" + data[index]["payment options"] + "</td>";
-        var price = "<td>" + data[index]["price (medium coffee)"] + "</td>";
-        var avgWaitTime = "<td>" + data[index]["avgWaitTime"] + "</td></tr>";
-        $("#output").append(name + loc + po + price + avgWaitTime);
+        var price = "<td>" + data[index]["Price (medium coffee)"] + "</td>";
+        var quality = "<td>" + data[index].quality + "</td>";
+        var service = "<td>" + data[index].service + "</td>";
+        var avgWaitTime = "<td>" + data[index]["waitTime"] + "</td></tr>";
+        $("#output").append(name + loc + po + price + quality + service + avgWaitTime);
     }
 });
 
