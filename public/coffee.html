@@ -15,7 +15,7 @@
     <h3 class="query">Select your Preferences:</h3>
     <hr>
     <form>
-        <div style="float: left; width:33%;" >
+        <div style="float: left; width:25%;" >
             <p>Quality Of Coffee</p>
             <select id="quality">
                 <option value="noPreference">No Preference</option>
@@ -25,7 +25,7 @@
             </select>
         </div>
 
-        <div style="float: left; width:33%">
+        <div style="float: left; width:25%">
             <p>Customer Service</p>
             <select id="service">
                 <option value="noPreference">No Preference</option>
@@ -35,7 +35,17 @@
             </select>
         </div>
 
-        <div style="float: left; width:33%">
+        <div style="float: left; width:25%">
+            <p>Price</p>
+            <select id="price">
+                <option value="noPreference">No Preference</option>
+                <option value="goodPrice">Good Price</option>
+                <option value="avgPrice">Average Price</option>
+                <option value="poorPrice">Poor Price</option>
+            </select>
+        </div>
+
+        <div style="float: left; width:25%">
             <p>Average Wait Time</p>
             <select id="waitTime">
                 <option value="noPreference">No Preference</option>
@@ -62,7 +72,6 @@
 <table>
     <div id="output">
     </div>
-    <button id="cal"> Click</button>
     <script src="./coffee.js"></script>
 </table>
 
